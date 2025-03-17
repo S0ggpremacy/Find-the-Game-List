@@ -1,23 +1,23 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "LlamaJunkIsMagic",
+        "link": "https://www.youtube.com/@LlamaJunkIsMagic"
     },
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@S0ggpremacy"
     },
     {
         "role": "helper",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@AquaRunicTunic"
     },
     {
         "role": "trial",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@S0ggpremacy"
     },
     {
         "role": "dev",
