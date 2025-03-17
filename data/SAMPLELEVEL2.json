@@ -7,9 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=HS6QDU_BwLU",
     "percentToQualify": "",
     "password": "",
-    "records": ["user": "LlamaJunkIsMagic",
+    "records": [
+        {
+            "user": "LlamaJunkIsMagic",
 "link": "https://www.youtube.com/watch?v=sLsRGjdkQFY",
 "percent": 100,
 "hz": 240
+        }
     ]
 }
