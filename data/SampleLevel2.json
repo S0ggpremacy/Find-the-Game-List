@@ -1,14 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "funiswhatido098",
-    "creators": ["Funistheaxolotl098", "Creeperdav", "Telk0_0"],
+    "id": 7031179594,
+    "name": "Everything Chomik",
+    "author": "emceptional and kubalopl",
+    "creators": [],
     "verifier": "LevitatorLevi",
-    "verification": "https://www.youtube.com/watch?v=wxD3DLuZzkE",
+    "verification": "https://www.youtube.com/watch?v=HS6QDU_BwLU",
     "percentToQualify": "100",
     "password": "",
     "records": [
         {
+            "user": "BoiDude",
+"link": "https://www.youtube.com/watch?v=jqucqXka9gY",
+"percent": 100,
+"hz": 240
         }
     ]
 }
