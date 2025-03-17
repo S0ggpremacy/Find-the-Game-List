@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 13176590337,
+    "name": "The One Piece",
+    "author": "Hyuzo",
+    "creators": ["Hyuzo", "LlamaJunkIsMagic", "Meepster_meeps"],
+    "verifier": "Void",
+    "verification": "https://www.youtube.com/watch?v=i6yinLV8CVk",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Hellolol",
+            "link": "https://www.youtube.com/watch?v=i6yinLV8CVk",
             "percent": 100,
-            "hz": 360
+            "hz": 140
         },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
