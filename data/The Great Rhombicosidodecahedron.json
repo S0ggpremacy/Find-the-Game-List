@@ -1,0 +1,18 @@
+{
+    "id": 8710292056,
+    "name": "The Great Rhombicosidodecahedron",
+    "author": "DaSp0ok",
+    "creators": ["DaSp0ok"],
+    "verifier": "Aquarun_e",
+    "verification": "https://www.youtube.com/watch?v=vmUEMotJNAM",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Aquarun_e",
+"link": "https://www.youtube.com/watch?v=ln4zB9pa5r4&t=3s",
+"percent": 100,
+"hz": 240
+        }
+    ]
+}
