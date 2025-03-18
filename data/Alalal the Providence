@@ -1,0 +1,18 @@
+{
+    "id": 8710292056,
+    "name": "Alalal the Providence",
+    "author": "funiswhatido098",
+    "creators": ["funiswhatido098", "telk0_0"],
+    "verifier": "Someguy",
+    "verification": "https://www.youtube.com/watch?v=sNVGbH4M6b4",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "insert",
+"link": "https://youtu.be/m7-P4NoBtuM",
+"percent": 100,
+"hz": 240
+        }
+    ]
+}
